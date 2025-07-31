@@ -136,15 +136,6 @@ Me chamo Lucas Pim, tenho 25 anos. Atualmente, estou finalizando Análise e Dese
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Vercel" 
-    title="Vercel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
-/>
-
 
 <br/>
 <br/>
